@@ -1,0 +1,2 @@
+rootProject.name='Pagging Crew'
+include ':app'
